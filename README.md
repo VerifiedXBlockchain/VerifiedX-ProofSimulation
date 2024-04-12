@@ -34,6 +34,7 @@ For more information please read the ReserverBlock whitepaper or litepaper.
 * .Net 8.0 | https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 * CLI
 * Visual Studio 2022 | https://visualstudio.microsoft.com/vs/
+* RBX Reference (ReserveBlockCore.dll)
 
 # Contributing to Proof Simulation
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
