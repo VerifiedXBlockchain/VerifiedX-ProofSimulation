@@ -18,6 +18,14 @@ https://reserveblock.io
 # What is Proof Simulation?
 This is a method that will simulate our proofing structure to show this it is both equally random and fair. 
 
+# Proof Results
+
+![image](https://github.com/ReserveBlockIO/ProofSimulation/assets/20599614/4d8f5450-a527-447f-9814-9f443ae3e40d)
+
+![image](https://github.com/ReserveBlockIO/ProofSimulation/assets/20599614/55607f9b-e00f-47b2-be39-7067cdbbdcf6)
+
+![image](https://github.com/ReserveBlockIO/ProofSimulation/assets/20599614/84cce3ef-ccdb-442e-98f5-4750ecdcf7bc)
+
 For more information please read the ReserverBlock whitepaper or litepaper.
 
 ### Proof Simulation Is Built on the Following ###
