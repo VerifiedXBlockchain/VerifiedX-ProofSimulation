@@ -4,16 +4,16 @@
 [![Generic badge](https://img.shields.io/badge/C%23-12%2E0-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/%2ENet%20Core-8%2E0-blue.svg)](https://shields.io/)
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ReserveBlockIO/ProofSimulation)
-![GitHub repo size](https://img.shields.io/github/repo-size/ReserveBlockIO/ProofSimulation)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/VerifiedXBlockchain/VerifiedX-ProofSimulation)
+![GitHub repo size](https://img.shields.io/github/repo-size/VerifiedXBlockchain/VerifiedX-ProofSimulation)
 
-![license](https://img.shields.io/github/license/ReserveBlockIO/ProofSimulation)
-![issues](https://img.shields.io/github/issues/ReserveBlockIO/ProofSimulation)
+![license](https://img.shields.io/github/license/VerifiedXBlockchain/VerifiedX-ProofSimulation)
+![issues](https://img.shields.io/github/issues/VerifiedXBlockchain/VerifiedX-ProofSimulation)
 ![Discord](https://img.shields.io/discord/917499597692211260?label=discord)
 
 #  Proof Simulation
 For more information and to follow latest news go to:
-https://reserveblock.io
+https://verifiedx.io
 
 # What is Proof Simulation?
 This is a method that will simulate our proofing structure to show this it is both equally random and fair. 
